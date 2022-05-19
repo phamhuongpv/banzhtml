@@ -187,6 +187,7 @@ html {
 
 #slider .text-description {
     margin: 15px 0;
+    text-shadow: 0 0 1px #000;
 }
 
 #content .content-section {
